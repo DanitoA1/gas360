@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 66.327 494.898 199.401" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <linearGradient id="gradient-1" bx:pinned="true">
+      <stop offset="0.23" style="stop-color: rgba(187, 255, 0, 0.67);"/>
+    </linearGradient>
+    <linearGradient id="gradient-2" bx:pinned="true">
+      <stop offset="0.627" style="stop-color: rgba(255, 0, 0, 0.9);"/>
+    </linearGradient>
+    <linearGradient id="gradient-3" bx:pinned="true">
+      <stop offset="0.708" style="stop-color: rgba(255, 0, 0, 0.12);"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="94.893" y1="133.508" x2="94.893" y2="273.039" id="gradient-4" gradientTransform="matrix(0.981692, 0.190477, -0.203124, 1.046875, 30.435368, -24.475279)">
+      <stop offset="0" style="stop-color: rgba(243, 245, 247, 0.05);"/>
+      <stop offset="1" style="stop-color: rgb(208, 225, 247);"/>
+    </linearGradient>
+  </defs>
+  <path d="M -469.587 783.531 L -469.883 -239.593 L 901.944 -240.824 L 901.944 290.441 Z M 900.944 -239.824 L -468.883 -238.593 L -468.587 782.109 L 900.944 289.737 Z" style="fill: none;"/>
+  <path d="M 974.307 -262.072 L 974.307 291.361 L -518.915 291.361 L -518.915 -262.072 Z M -517.915 290.361 L 973.307 290.361 L 973.307 -261.072 L -517.915 -261.072 Z" style="fill: none;"/>
+  <path style="stroke: rgb(0, 0, 0); paint-order: stroke markers; stroke-width: 0px; fill: rgb(249, 252, 255);" d="M -2.245 65.824 L -0.395 263.327 L 502.79 63.709"/>
+  <path style="stroke: rgb(0, 0, 0); fill: url(#gradient-4); stroke-width: 0px;" d="M 0.545 228.204 L 265.98 123.556 L 267.07 157.349 L 0 263.087"/>
+</svg>
